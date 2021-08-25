@@ -1,7 +1,48 @@
 div{  
 text-align: center;
 color: purple;
-font-size:150%;
-background-color: pink
+background-color: pink;
+widht: 100%;
 
+}
+div{
+  list-style: none;
+  
+}
+#nimi{
+ width: 98%;
+ font-size: 70%;
+ text-align: left;
+}
+#lisaanappi{
+  width: 100%;
+  background-color: black;
+  color: white;
+}
+
+#kissa{
+  text-align: left;
+  width: 90%;
+  margin: auto;
+  
+}
+ul{
+  list-style: none;
+}
+body{
+  background-color: darkblue;
+}
+#koira{
+  background-color: darkblue; 
+  width: 90%;
+  text-align: left;
+}
+#kurkku{
+  background-color: black;
+  color: white;
+  width: 106%;
+}
+#boksit{
+  color:black;
+  font-size: 110%;
 }
