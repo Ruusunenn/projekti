@@ -1,7 +1,7 @@
 div{  
 text-align: center;
 color: purple;
-background-color: pink;
+background-color: rgb(201, 38, 128);
 widht: 100%;
 
 }
@@ -46,3 +46,4 @@ body{
   color:black;
   font-size: 110%;
 }
+
